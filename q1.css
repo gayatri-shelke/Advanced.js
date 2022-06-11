@@ -1,0 +1,24 @@
+.container{
+    background-color: gray ;
+    display: grid;
+    grid-template-columns: 400px,200px;
+    /* grid-template-rows:150px 100px ; */
+}
+.item1{
+    background: red;
+}
+.item2{
+    background:blue;
+}
+.item3{
+    background: yellow;
+}
+.item4{
+    background: orange;
+}
+.item5{
+    background:salmon;
+}
+.item6{
+    background: aqua;
+}
